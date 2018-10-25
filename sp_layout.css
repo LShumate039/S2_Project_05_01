@@ -29,6 +29,7 @@ body {
 
 }
 
+/*in this rule it effects header, ul, li, a, and nav */
 header,
 ul,
 li,
@@ -40,7 +41,7 @@ nav {
 }
 
 /* Row Styles */
-
+/* this is empty space of the images t olook better on the page*/
 .row::after {
     clear: both;
     display: table;
